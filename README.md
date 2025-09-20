@@ -55,7 +55,7 @@ pnpm install         # or: npm install
 ### **📁 Project Structure:**
 
 ```plaintext
-kaizenjobportal/
+Scan2Hire(kaizenjobportal)/
 ├── app/
 │   ├── layout.tsx                 # Root layout with theme provider
 │   ├── page.tsx                   # Homepage with hero section
