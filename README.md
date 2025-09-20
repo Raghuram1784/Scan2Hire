@@ -117,16 +117,16 @@ Scan2Hire(kaizenjobportal)/
 
 ## 🚀 Key Features Implemented:
 
-✅ **Student Assessment**: 5-step form with validation  
-✅ **AI Career Matching**: Intelligent recommendations based on values/preferences  
-✅ **QR Code Generation**: Real functional QR codes using `qrcode` library  
-✅ **Phone Verification**: Student profile checking system  
-✅ **Fitment Analysis**: AI-powered compatibility scoring  
-✅ **Company Directory**: Browse and filter companies (**FIXED!**)  
-✅ **Voice Input**: Web Speech API integration  
-✅ **Dark Theme**: Complete dark/light mode support  
-✅ **Responsive Design**: Mobile-first approach  
-✅ **Data Persistence**: LocalStorage for demo purposes  
+**Student Assessment** :  5-step form with validation  
+**AI Career Matching** : Intelligent recommendations based on values/preferences  
+**QR Code Generation** : Real functional QR codes using `qrcode` library  
+**Phone Verification** : Student profile checking system  
+**Fitment Analysis** : AI-powered compatibility scoring  
+**Company Directory**  : Browse and filter companies (**FIXED!**)  
+**Voice Input**  : Web Speech API integration  
+**Dark Theme** : Complete dark/light mode support  
+**Responsive Design** : Mobile-first approach  
+**Data Persistence** : LocalStorage for demo purposes  
 
 ---
 
