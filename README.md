@@ -161,6 +161,7 @@ Scan2Hire(kaizenjobportal)/
 - ![Home](Application-Snapshots/13.png)
 - ![Home](Application-Snapshots/14.png)
 - ![Home](Application-Snapshots/15.png)
+- ![Home](Application-Snapshots/16.png)
 
 ##  Deployment
 
