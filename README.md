@@ -12,7 +12,7 @@ It’s a **QR-powered platform** that instantly connects **students** and **comp
 
 ---
 
-## ✨ Key Features
+## Key Features
 - **Student Assessment** → values, preferences, personality, resume
 - **AI Fitment Scoring** → quick compatibility score for recruiters
 - **QR Codes** → scannable links for job posts & profiles
@@ -25,7 +25,7 @@ It’s a **QR-powered platform** that instantly connects **students** and **comp
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 - **Frontend**: Next.js (App Router), React, Tailwind CSS
 - **UI**: shadcn/ui components
 - **State / Data (demo)**: LocalStorage
@@ -35,7 +35,7 @@ It’s a **QR-powered platform** that instantly connects **students** and **comp
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1) Prerequisites
 - Node.js ≥ 18
@@ -52,7 +52,7 @@ pnpm install         # or: npm install
 
 ## **Complete Project Structure & File Overview**
 
-### **📁 Project Structure:**
+### ** Project Structure:**
 
 ```plaintext
 Scan2Hire(kaizenjobportal)/
@@ -115,7 +115,7 @@ Scan2Hire(kaizenjobportal)/
 
 ---
 
-## 🚀 Key Features Implemented:
+##  Key Features Implemented:
 
 **Student Assessment** :  5-step form with validation  
 **AI Career Matching** : Intelligent recommendations based on values/preferences  
@@ -130,7 +130,7 @@ Scan2Hire(kaizenjobportal)/
 
 ---
 
-## 🔮 Future Enhancements:
+##  Future Enhancements:
 
 1. **Database Integration**: Replace localStorage with Supabase/PostgreSQL
 2. **Real Authentication**: Add proper user auth with sessions
@@ -145,7 +145,24 @@ Scan2Hire(kaizenjobportal)/
 
 ---
 
-## 🚢 Deployment
+##  Application Snapshots:
+- ![Home](Application-Snapshots/1.png)
+- ![Home](Application-Snapshots/2.png)
+- ![Home](Application-Snapshots/3.png)
+- ![Home](Application-Snapshots/4.png)
+- ![Home](Application-Snapshots/5.png)
+- ![Home](Application-Snapshots/6.png)
+- ![Home](Application-Snapshots/7.png)
+- ![Home](Application-Snapshots/8.png)
+- ![Home](Application-Snapshots/9.png)
+- ![Home](Application-Snapshots/10.png)
+- ![Home](Application-Snapshots/11.png)
+- ![Home](Application-Snapshots/12.png)
+- ![Home](Application-Snapshots/13.png)
+- ![Home](Application-Snapshots/14.png)
+- ![Home](Application-Snapshots/15.png)
+
+##  Deployment
 
 - **Frontend** deployed on **Vercel**: [https://v0-kaizen-job-portal.vercel.app/](https://v0-kaizen-job-portal.vercel.app/)
 - **GitHub Repository**: [https://github.com/Raghuram1784/Scan2Hire](https://github.com/Raghuram1784/Scan2Hire)
